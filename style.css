@@ -1,0 +1,35 @@
+body {
+    margin: 0 auto;
+    max-width: 50%;
+    font-family: 'Golos Text';
+    font-size: larger;
+}
+
+body header {
+    background-image: url(../img/header_background.jpeg);
+    color: black;
+}
+
+
+#fuente-rara {
+    font-family: 'Old Standard TT';
+    
+}
+.link {
+    text-decoration: none;
+    color: rgb(221, 63, 63);
+}
+
+.imagenes {
+    width: 100%;
+}
+
+.video {
+    width: 100%;
+}
+
+@media screen and (max-width: 800px) {
+    body {
+        font-size:small ;
+    }
+}
