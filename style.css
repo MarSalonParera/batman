@@ -5,7 +5,7 @@ body {
     font-size: larger;
 }
 
-body header {
+.cabecera {
     background-image: url(SMX2M8UF5A1-TheBatman-Material/header_background.jpeg
     );
     color: black;
