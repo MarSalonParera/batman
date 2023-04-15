@@ -5,11 +5,16 @@ body {
     font-size: larger;
 }
 
-.hearder {
-    background-image: url(SMX2M8UF5A1-TheBatman-Material/header_background.jpeg
-    );
-    color: black;
+.cabecera {
+    display: flex;
+    background-image: url(SMX2M8UF5A2-FirstCode-imagenes/header.jpg);
+    background-size:cover;
+    height:100vh;
+    width: 100%; 
+    align-items: center;
+    justify-content: center;
 }
+   
 
 
 #fuente-rara {
