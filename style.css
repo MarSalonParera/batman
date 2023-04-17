@@ -5,9 +5,19 @@
     font-size: larger;
 }
 
-body header {
+.cabecera {
+    display: flex;
     background-image: url(SMX2M8UF5A1-TheBatman-Material/header_background.jpeg);
-    color: black;
+    background-size:cover;
+    height:100vh;
+    width: 100%; 
+    align-items: center;
+    justify-content: center;
+}
+    
+.parrafo4{
+    text-align: center;
+    font-size: 40px;
 }
 
 #fuente-rara {
